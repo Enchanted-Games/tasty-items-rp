@@ -1,0 +1,27 @@
+{
+  "pack": {
+    "pack_format": 44,
+    "supported_formats": [44, 54],
+    "description": [
+      "",
+      {
+        "text": "Eating Animations",
+        "color": "#de73a0"
+      },
+      {
+        "text": " in vanilla!\n",
+        "color": "#b56989",
+        "italic": true
+      },
+      {
+        "text": "v0.1"
+      },
+      {
+        "text": " | "
+      },
+      {
+        "text": "by Enchanted_Games"
+      }
+    ]
+  }
+}
