@@ -7,7 +7,7 @@
         "when": "gui",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/cooked_beef"
+          "model": "minecraft:item/carrot"
         }
       }
     ],
@@ -16,7 +16,7 @@
       "property": "minecraft:using_item",
       "on_false": {
         "type": "minecraft:model",
-        "model": "minecraft:item/cooked_beef"
+        "model": "minecraft:item/carrot"
       },
       "on_true": {
         "type": "minecraft:range_dispatch",
@@ -27,91 +27,91 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/cooked_beef_eat_11"
+              "model": "eg_tasty_items:item/carrot_eat_11"
             },
             "threshold": 2
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/cooked_beef_eat_10"
+              "model": "eg_tasty_items:item/carrot_eat_10"
             },
             "threshold": 4
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/cooked_beef_eat_9"
+              "model": "eg_tasty_items:item/carrot_eat_9"
             },
             "threshold": 6
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/cooked_beef_eat_8"
+              "model": "eg_tasty_items:item/carrot_eat_8"
             },
             "threshold": 8
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/cooked_beef_eat_7"
+              "model": "eg_tasty_items:item/carrot_eat_7"
             },
             "threshold": 10
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/cooked_beef_eat_6"
+              "model": "eg_tasty_items:item/carrot_eat_6"
             },
             "threshold": 12
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/cooked_beef_eat_5"
+              "model": "eg_tasty_items:item/carrot_eat_5"
             },
             "threshold": 14
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/cooked_beef_eat_4"
+              "model": "eg_tasty_items:item/carrot_eat_4"
             },
             "threshold": 16
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/cooked_beef_eat_3"
+              "model": "eg_tasty_items:item/carrot_eat_3"
             },
             "threshold": 18
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/cooked_beef_eat_2"
+              "model": "eg_tasty_items:item/carrot_eat_2"
             },
             "threshold": 20
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/cooked_beef_eat_1"
+              "model": "eg_tasty_items:item/carrot_eat_1"
             },
             "threshold": 22
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "minecraft:item/cooked_beef"
+              "model": "minecraft:item/carrot"
             },
             "threshold": 24
           }
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "eg_tasty_items:item/cooked_beef_eat_11"
+          "model": "eg_tasty_items:item/carrot_eat_11"
         }
       }
     }
