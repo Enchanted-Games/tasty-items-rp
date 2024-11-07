@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/cooked_beef/eat_3"
+    "layer0": "eg_tasty_items:item/cooked_beef/eat_9"
   }
 }

@@ -1,0 +1,105 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/cooked_beef"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cooked_beef_eat_1"
+          },
+          "threshold": 0.173
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cooked_beef_eat_2"
+          },
+          "threshold": 0.246
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cooked_beef_eat_3"
+          },
+          "threshold": 0.319
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cooked_beef_eat_4"
+          },
+          "threshold": 0.392
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cooked_beef_eat_5"
+          },
+          "threshold": 0.465
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cooked_beef_eat_6"
+          },
+          "threshold": 0.538
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cooked_beef_eat_7"
+          },
+          "threshold": 0.611
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cooked_beef_eat_8"
+          },
+          "threshold": 0.684
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cooked_beef_eat_9"
+          },
+          "threshold": 0.757
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cooked_beef_eat_10"
+          },
+          "threshold": 0.83
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cooked_beef_eat_11"
+          },
+          "threshold": 0.903
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/air"
+          },
+          "threshold": 0.976
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/cooked_beef"
+      },
+      "property": "minecraft:use_duration",
+      "scale": 0.03
+    },
+    "property": "minecraft:using_item"
+  }
+}
