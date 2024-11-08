@@ -27,77 +27,56 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/carrot_eat_9"
+              "model": "eg_tasty_items:item/carrot/eat_6"
             },
-            "threshold": 2.66
+            "threshold": 2
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/carrot_eat_8"
+              "model": "eg_tasty_items:item/carrot/eat_5"
             },
-            "threshold": 5.32
+            "threshold": 6
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/carrot_eat_7"
+              "model": "eg_tasty_items:item/carrot/eat_4"
             },
-            "threshold": 7.98
+            "threshold": 10
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/carrot_eat_6"
+              "model": "eg_tasty_items:item/carrot/eat_3"
             },
-            "threshold": 10.64
+            "threshold": 14
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/carrot_eat_5"
+              "model": "eg_tasty_items:item/carrot/eat_2"
             },
-            "threshold": 13.3
+            "threshold": 18
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/carrot_eat_4"
+              "model": "eg_tasty_items:item/carrot/eat_1"
             },
-            "threshold": 15.96
+            "threshold": 22
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/carrot_eat_3"
+              "model": "eg_tasty_items:item/carrot/rotated_to_mouth"
             },
-            "threshold": 18.62
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "eg_tasty_items:item/carrot_eat_2"
-            },
-            "threshold": 21.28
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "eg_tasty_items:item/carrot_eat_1"
-            },
-            "threshold": 23.94
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "eg_tasty_items:item/carrot_rotated_to_mouth"
-            },
-            "threshold": 26.6
+            "threshold": 24
           }
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "eg_tasty_items:item/carrot_eat_9"
+          "model": "eg_tasty_items:item/carrot/eat_6"
         }
       }
     }
