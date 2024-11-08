@@ -1,0 +1,16 @@
+{
+  "credit": "Made by Enchanted Games (https://enchanted.games)",
+  "parent": "builtin/generated",
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [0, -90, -75],
+      "translation": [2, 0.25, 5.5],
+      "scale": [0.68, 0.68, 0.68]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, -90, -170],
+      "translation": [2, 0.25, 5.5],
+      "scale": [0.68, 0.68, 0.68]
+    }
+  }
+}
