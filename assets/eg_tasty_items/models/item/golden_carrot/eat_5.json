@@ -1,0 +1,6 @@
+{
+  "parent": "eg_tasty_items:item/point_toward_mouth",
+  "textures": {
+    "layer0": "eg_tasty_items:item/golden_carrot/eat_5"
+  }
+}
