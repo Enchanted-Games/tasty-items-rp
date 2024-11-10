@@ -1,0 +1,144 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/potion",
+          "tints": [
+            {
+              "type": "minecraft:potion",
+              "default": -13083194
+            }
+          ]
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/potion",
+        "tints": [
+          {
+            "type": "minecraft:potion",
+            "default": -13083194
+          }
+        ]
+      },
+      "on_true": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:use_duration",
+        "remaining": true,
+        "scale": 1,
+        "entries": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/potion/eat_6",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "threshold": 2
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/potion/eat_5",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "threshold": 6
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/potion/eat_4",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "threshold": 10
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/potion/eat_3",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "threshold": 14
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/potion/eat_2",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "threshold": 18
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/potion/eat_1",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "threshold": 22
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/potion/rotated_to_mouth",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "threshold": 24
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "eg_tasty_items:item/potion/eat_7",
+          "tints": [
+            {
+              "type": "minecraft:potion",
+              "default": -13083194
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench by Enchanted Games (https://enchanted.games)",
+	"textures": {
+		"1": "item/glass_bottle",
+		"particle": "item/glass_bottle"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 7.5],
+			"to": [16, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1, 16], "rotation": 90, "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 16], "rotation": 270, "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [4.36, 10.32, 101.18],
+			"translation": [-2.25, 1.25, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [4.36, 10.32, 101.18],
+			"translation": [-2.25, 1.25, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [-80, -26, 73],
+			"translation": [4.5, 2, 3.5],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-80, -26, 73],
+			"translation": [4.5, 2, 3.5],
+			"scale": [0.68, 0.68, 0.68]
+		}
+	}
+}
