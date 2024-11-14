@@ -2,6 +2,6 @@
   "parent": "eg_tasty_items:item/point_toward_mouth_bottle",
   "textures": {
     "layer0": "eg_tasty_items:item/potion/eat_2",
-    "layer1": "eg_tasty_items:item/potion/no_cork"
+    "layer1": "eg_tasty_items:item/bottle_no_cork"
   }
 }
