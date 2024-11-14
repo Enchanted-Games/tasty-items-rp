@@ -13,7 +13,7 @@ There have been mods that add a similar feature in the past, however this resour
 This pack currently only adds animations to a few items (see dropdown for full list). More will be added in the future, I want to avoid doing every single food until this feature is finalised and out of the snapshot phase
 
 <details>
-<summary>Blocks</summary>
+<summary>Currently Supported Items</summary>
 <ul>
 <li>Carrot</li>
 <li>Golden Carrot</li>
