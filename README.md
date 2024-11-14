@@ -12,6 +12,17 @@ There have been mods that add a similar feature in the past, however this resour
 
 This pack currently only adds animations to a few items (see dropdown for full list). More will be added in the future, I want to avoid doing every single food until this feature is finalised and out of the snapshot phase
 
+<details>
+<summary>Blocks</summary>
+<ul>
+<li>Carrot</li>
+<li>Golden Carrot</li>
+<li>Steak</li>
+<li>Raw Beef</li>
+<li>Potions</li>
+</ul>
+</details>
+
 ## Game Versions
 
 You need to be in 24w45a or above for this to work. You don't need any mods installed.
