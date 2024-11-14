@@ -125,7 +125,7 @@
                 }
               ]
             },
-            "threshold": 24
+            "threshold": 26
           }
         ],
         "fallback": {

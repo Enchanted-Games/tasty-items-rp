@@ -27,72 +27,37 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/beef/eat_11"
+              "model": "eg_tasty_items:item/beef/eat_6"
             },
             "threshold": 2
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/beef/eat_10"
-            },
-            "threshold": 4
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "eg_tasty_items:item/beef/eat_9"
+              "model": "eg_tasty_items:item/beef/eat_5"
             },
             "threshold": 6
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/beef/eat_8"
-            },
-            "threshold": 8
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "eg_tasty_items:item/beef/eat_7"
+              "model": "eg_tasty_items:item/beef/eat_4"
             },
             "threshold": 10
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/beef/eat_6"
-            },
-            "threshold": 12
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "eg_tasty_items:item/beef/eat_5"
+              "model": "eg_tasty_items:item/beef/eat_3"
             },
             "threshold": 14
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/beef/eat_4"
-            },
-            "threshold": 16
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "eg_tasty_items:item/beef/eat_3"
-            },
-            "threshold": 18
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
               "model": "eg_tasty_items:item/beef/eat_2"
             },
-            "threshold": 20
+            "threshold": 18
           },
           {
             "model": {
@@ -106,12 +71,12 @@
               "type": "minecraft:model",
               "model": "minecraft:item/beef"
             },
-            "threshold": 24
+            "threshold": 26
           }
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "eg_tasty_items:item/beef/eat_11"
+          "model": "eg_tasty_items:item/beef/eat_6"
         }
       }
     }

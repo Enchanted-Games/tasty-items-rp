@@ -71,7 +71,7 @@
               "type": "minecraft:model",
               "model": "eg_tasty_items:item/carrot/rotated_to_mouth"
             },
-            "threshold": 24
+            "threshold": 26
           }
         ],
         "fallback": {
