@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 44,
-    "supported_formats": [44, 54],
+    "supported_formats": [44, 45],
     "description": [
       "",
       {
