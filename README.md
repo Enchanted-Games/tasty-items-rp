@@ -20,6 +20,8 @@ This pack currently only adds animations to a few items (see dropdown for full l
 <li>Steak</li>
 <li>Raw Beef</li>
 <li>Potions</li>
+<li>Honey Bottle</li>
+<li>Sweet Berries</li>
 </ul>
 </details>
 

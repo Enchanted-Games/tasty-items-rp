@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "eg_tasty_items:item/sweet_berries/eat_3"
+  }
+}
