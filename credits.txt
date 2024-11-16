@@ -1,5 +1,5 @@
 A list of people who have contributed to the pack in some way or have inspired me in general.
-    all textures in this pack are original and aren't taken from any mods
+    all textures in this pack are original and are based on the vanilla Minecraft assets
 
 - Amaro Lunático: Original raw beef animation (shortened to 6 frames from 11)
 
