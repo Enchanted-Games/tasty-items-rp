@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/carrot",
+  "textures": {
+    "particle": "eg_tasty_items:item/carrot/particle"
+  }
+}

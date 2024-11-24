@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/glow_berries",
+  "textures": {
+    "particle": "eg_tasty_items:item/glow_berries/particle"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/melon_slice",
+  "textures": {
+    "particle": "eg_tasty_items:item/melon_slice/particle"
+  }
+}

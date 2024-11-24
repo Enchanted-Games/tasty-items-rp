@@ -7,7 +7,7 @@
         "when": "gui",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/carrot"
+          "model": "eg_tasty_items:item/vanilla_particle_override/carrot"
         }
       }
     ],
@@ -16,7 +16,7 @@
       "property": "minecraft:using_item",
       "on_false": {
         "type": "minecraft:model",
-        "model": "minecraft:item/carrot"
+        "model": "eg_tasty_items:item/vanilla_particle_override/carrot"
       },
       "on_true": {
         "type": "minecraft:range_dispatch",
