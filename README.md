@@ -36,8 +36,9 @@ You need to be in 24w45a or above for this to work. You don't need any mods inst
 
 ## Credits
 
-- **Amaro Lunático**: Original raw beef animation (shortened to 6 frames from 11)
-- **theoness1**: For making the Food Animations mod that was an inspiration for this pack
+- **Amaro Lunático**: Made the raw beef animation (shortened to 6 frames from 11)
+- **KilianFelix**: Made the pumpkin pie animation (first two frames slightly modified)
+- **theoness1**: Made the Food Animations mod that was an inspiration for this pack
 
 ## License
 
