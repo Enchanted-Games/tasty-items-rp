@@ -1,0 +1,6 @@
+{
+  "parent": "eg_tasty_items:item/point_toward_mouth_bowl",
+  "textures": {
+    "layer0": "minecraft:item/beetroot_soup"
+  }
+}

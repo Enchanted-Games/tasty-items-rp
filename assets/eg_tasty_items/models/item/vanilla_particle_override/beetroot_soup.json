@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/beetroot_soup",
+  "textures": {
+    "particle": "eg_tasty_items:item/beetroot_soup/particle"
+  }
+}
