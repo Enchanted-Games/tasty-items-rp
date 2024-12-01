@@ -1,0 +1,6 @@
+{
+  "parent": "eg_tasty_items:item/point_toward_mouth_bottle",
+  "textures": {
+    "layer0": "minecraft:item/ominous_bottle"
+  }
+}

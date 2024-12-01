@@ -1,0 +1,91 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/ominous_bottle"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/ominous_bottle"
+      },
+      "on_true": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:use_duration",
+        "remaining": true,
+        "scale": 1,
+        "entries": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/ominous_bottle/eat_7"
+            },
+            "threshold": -1
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/ominous_bottle/eat_6"
+            },
+            "threshold": 2
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/ominous_bottle/eat_5"
+            },
+            "threshold": 6
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/ominous_bottle/eat_4"
+            },
+            "threshold": 10
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/ominous_bottle/eat_3"
+            },
+            "threshold": 14
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/ominous_bottle/eat_2"
+            },
+            "threshold": 18
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/ominous_bottle/eat_1"
+            },
+            "threshold": 22
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "eg_tasty_items:item/ominous_bottle/eat_0"
+            },
+            "threshold": 26
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "eg_tasty_items:item/ominous_bottle/eat_7"
+        }
+      }
+    }
+  }
+}
