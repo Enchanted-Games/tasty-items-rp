@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/mushroom_stew",
+  "textures": {
+    "particle": "eg_tasty_items:item/mushroom_stew/particle"
+  }
+}
