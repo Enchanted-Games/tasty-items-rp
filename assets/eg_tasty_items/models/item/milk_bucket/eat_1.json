@@ -1,0 +1,6 @@
+{
+  "parent": "eg_tasty_items:item/point_toward_mouth_bucket",
+  "textures": {
+    "layer0": "eg_tasty_items:item/milk_bucket/eat_1"
+  }
+}
