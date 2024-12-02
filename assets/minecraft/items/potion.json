@@ -117,7 +117,7 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/potion/rotated_to_mouth",
+              "model": "eg_tasty_items:item/potion/eat_0",
               "tints": [
                 {
                   "type": "minecraft:potion",

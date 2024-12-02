@@ -1,0 +1,26 @@
+{
+  "credit": "Made by Enchanted Games (https://enchanted.games)",
+  "parent": "item/generated",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [4.36, 10.32, 101.18],
+      "translation": [-2.25, 1.25, 1],
+      "scale": [0.55, 0.55, 0.55]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-171.16, -12.3, 76.33],
+      "translation": [-2.25, 1.25, 1],
+      "scale": [0.55, 0.55, 0.55]
+    },
+    "firstperson_righthand": {
+      "rotation": [-75.76, -55.58, 82.5],
+      "translation": [1.63, 4.45, 2.63],
+      "scale": [0.68, 0.68, 0.68]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-75.76, 110.58, -82.5],
+      "translation": [1.63, 4.45, 2.63],
+      "scale": [0.68, 0.68, 0.68]
+    }
+  }
+}
