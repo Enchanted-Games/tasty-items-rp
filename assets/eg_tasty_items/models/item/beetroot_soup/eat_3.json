@@ -1,5 +1,5 @@
 {
-  "parent": "eg_tasty_items:item/point_toward_mouth_bowl",
+  "parent": "eg_tasty_items:item/rotations/bowl/point_toward_mouth_3",
   "textures": {
     "layer0": "eg_tasty_items:item/beetroot_soup/eat_3"
   }
