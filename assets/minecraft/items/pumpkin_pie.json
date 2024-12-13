@@ -69,7 +69,7 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "minecraft:item/pumpkin_pie"
+              "model": "eg_tasty_items:item/pumpkin_pie/eat_0"
             },
             "threshold": 26
           }

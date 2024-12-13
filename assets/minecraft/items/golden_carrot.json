@@ -69,7 +69,7 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/golden_carrot/rotated_to_mouth"
+              "model": "eg_tasty_items:item/golden_carrot/eat_0"
             },
             "threshold": 26
           }

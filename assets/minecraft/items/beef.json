@@ -69,7 +69,7 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "minecraft:item/beef"
+              "model": "eg_tasty_items:item/beef/eat_0"
             },
             "threshold": 26
           }

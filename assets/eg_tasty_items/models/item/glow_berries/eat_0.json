@@ -1,6 +1,6 @@
 {
   "parent": "eg_tasty_items:item/rotations/point_toward_mouth_third_person",
   "textures": {
-    "layer0": "eg_tasty_items:item/golden_apple/eat_4"
+    "layer0": "minecraft:item/glow_berries"
   }
 }

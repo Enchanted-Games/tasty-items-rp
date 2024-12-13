@@ -69,7 +69,7 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eg_tasty_items:item/vanilla_particle_override/apple"
+              "model": "eg_tasty_items:item/apple/eat_0"
             },
             "threshold": 26
           }
