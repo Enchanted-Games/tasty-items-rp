@@ -22,6 +22,14 @@ This pack currently only adds animations to a few items (see dropdown for full l
 <li>Potions</li>
 <li>Honey Bottle</li>
 <li>Sweet Berries</li>
+<li>Glow berries</li>
+<li>All types of stews and soup</li>
+<li>Apples</li>
+<li>Golden Apples</li>
+<li>Enchanted Golden Apples</li>
+<li>Melon Slices</li>
+<li>Pumpkin Pie</li>
+<li>Ominous Bottle</li>
 </ul>
 </details>
 
