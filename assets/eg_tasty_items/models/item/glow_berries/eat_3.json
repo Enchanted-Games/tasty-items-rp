@@ -1,5 +1,5 @@
 {
-  "parent": "eg_tasty_items:item/rotations/point_toward_mouth_third_person",
+  "parent": "eg_tasty_items:item/rotations/point_toward_mouth_carrot_third_person_only",
   "textures": {
     "layer0": "eg_tasty_items:item/glow_berries/eat_3"
   }
