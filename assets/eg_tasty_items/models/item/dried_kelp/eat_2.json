@@ -1,0 +1,6 @@
+{
+  "parent": "eg_tasty_items:item/rotations/point_toward_mouth_third_person",
+  "textures": {
+    "layer0": "eg_tasty_items:item/dried_kelp/eat_2"
+  }
+}
