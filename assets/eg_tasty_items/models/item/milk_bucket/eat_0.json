@@ -1,0 +1,6 @@
+{
+  "parent": "eg_tasty_items:item/rotations/bucket/point_toward_mouth_0",
+  "textures": {
+    "layer0": "minecraft:item/milk_bucket"
+  }
+}

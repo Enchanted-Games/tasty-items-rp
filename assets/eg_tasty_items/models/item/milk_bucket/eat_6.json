@@ -1,0 +1,6 @@
+{
+  "parent": "eg_tasty_items:item/rotations/bucket/point_toward_mouth_6",
+  "textures": {
+    "layer0": "eg_tasty_items:item/milk_bucket/eat_6"
+  }
+}
