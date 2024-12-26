@@ -10,32 +10,11 @@ There have been mods that add a similar feature in the past, however this resour
 
 ## Current Items
 
-This pack currently only adds animations to a few items (see dropdown for full list). More will be added in the future, I want to avoid doing every single food until this feature is finalised and out of the snapshot phase
-
-<details>
-<summary>Currently Supported Items</summary>
-<ul>
-<li>Carrot</li>
-<li>Golden Carrot</li>
-<li>Steak</li>
-<li>Raw Beef</li>
-<li>Potions</li>
-<li>Honey Bottle</li>
-<li>Sweet Berries</li>
-<li>Glow berries</li>
-<li>All types of stews and soup</li>
-<li>Apples</li>
-<li>Golden Apples</li>
-<li>Enchanted Golden Apples</li>
-<li>Melon Slices</li>
-<li>Pumpkin Pie</li>
-<li>Ominous Bottle</li>
-</ul>
-</details>
+This pack adds eating animations for all food and drink items as of 1.21.4!
 
 ## Game Versions
 
-You need to be in 24w45a or above for this to work. You don't need any mods installed.
+You need to be in 1.21.4 or above for this to work. You don't need any mods installed.
 
 **I will not backport this to older versions for two reasons:**
 
