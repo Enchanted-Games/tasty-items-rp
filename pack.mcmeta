@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 44,
-    "supported_formats": [44, 64],
+    "min_format": 68,
+    "max_format": 69,
     "description": [
       "",
       {
@@ -14,13 +14,19 @@
         "italic": true
       },
       {
-        "text": "v1.2"
+        "text": "v1.3"
       },
       {
-        "text": " | "
+        "text": " | by "
       },
       {
-        "text": "by Enchanted_Games"
+        "player": {
+          "name": "Enchanted_Games"
+        },
+        "color": "white"
+      },
+      {
+        "text": " Enchanted_Games "
       }
     ]
   }
